@@ -4,17 +4,21 @@ N|Solid
 
 
 
-Pre Requisite
+#Pre Requisite
 
 Windows Operating System
 php 5
 HTML
 Django framework
 
-About
+
+#instalations
+
+
+#About
 
 RIZA FAHLEPI
 
 D4 Teknik Informatika Politeknik Pos Indonesia
 
-Reference
+#Reference
